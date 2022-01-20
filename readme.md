@@ -1,5 +1,6 @@
 ## Terraformer 
-https://github.com/GoogleCloudPlatform/terraformer#installation
+https://github.com/GoogleCloudPlatform/terraformer
+https://github.com/GoogleCloudPlatform/terraformer/blob/master/docs/aws.md
 
 ## Install
 ```
